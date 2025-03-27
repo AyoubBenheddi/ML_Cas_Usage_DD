@@ -1,6 +1,5 @@
-# ML_Cas_Usage_DD
+# Modélisation de la satisfaction urbaine et environnement vert
 
-Modélisation de la satisfaction urbaine et environnement vert
 Ce projet vise à modéliser la satisfaction des habitants en fonction de l’environnement végétal urbain à partir de données suisses issues du Swiss Household Panel (SHP) et d’indicateurs spatiaux de couverture végétale. L’objectif est de produire un modèle de classification permettant d’identifier les conditions environnementales associées à une plus grande satisfaction des résidents, avec une application possible sur d’autres territoires comme la ville de Montélimar.
 
 🔍 Ce dépôt contient le code complet de :
