@@ -17,11 +17,10 @@ Les courbes ROC/PR, les matrices de confusion, et l’évaluation finale
 
 Les données utilisées sont issues de deux fichiers confidentiels :
 
-shp21_p_user.dta : Enquête Swiss Household Panel, vague 2021
+shp21_p_user.dta et shp21_h_user.dta: Enquête Swiss Household Panel, vague 2021
 
-greenery_land_usage_data.csv : Fichier d’environnement urbain suisse (CH)
 
-Ces fichiers ne sont pas distribués dans ce dépôt pour des raisons de confidentialité.
+Ces fichiers ne sont pas distribués dans ce dépôt pour des raisons de confidentialité. Vous pourrez également retrouvé une documentation détaillant les champs dans les données attribues par le FORS
 
 📥 Obtenir les données
 
@@ -34,8 +33,6 @@ Faire une demande d’accès aux fichiers de données utilisateurs restreints
 Une fois l'accès approuvé, télécharger :
 
 Le fichier .dta contenant les données individuelles et ménages
-
-Le fichier environnemental contenant les indicateurs spatiaux (souvent fournis via un lien annexe ou sur demande auprès des auteurs de l’article : https://doi.org/10.1016/j.landurbplan.2024.105012)
 
 🧠 Structure du code (extrait principal)
 
